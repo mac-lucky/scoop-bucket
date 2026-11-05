@@ -1,0 +1,22 @@
+{
+    "version": "1.9.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/mac-lucky/pushward-cli/releases/download/v1.9.0/pushward_1.9.0_windows_amd64.zip",
+            "bin": [
+                "pushward.exe"
+            ],
+            "hash": "99fe89fdc4b2f8394e767fd04fb04d556419cd16fa851f52aacd378564da1bec"
+        },
+        "arm64": {
+            "url": "https://github.com/mac-lucky/pushward-cli/releases/download/v1.9.0/pushward_1.9.0_windows_arm64.zip",
+            "bin": [
+                "pushward.exe"
+            ],
+            "hash": "af12df14455eab102759e3193922c7d69060c49ca8268081b40262c219641e0d"
+        }
+    },
+    "homepage": "https://github.com/mac-lucky/pushward-cli",
+    "license": "MIT",
+    "description": "Command-line client for PushWard push notifications, Live Activities and widgets"
+}
