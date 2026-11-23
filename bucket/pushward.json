@@ -1,19 +1,19 @@
 {
-    "version": "1.14.1",
+    "version": "1.14.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mac-lucky/pushward-cli/releases/download/v1.14.1/pushward_1.14.1_windows_amd64.zip",
+            "url": "https://github.com/mac-lucky/pushward-cli/releases/download/v1.14.2/pushward_1.14.2_windows_amd64.zip",
             "bin": [
                 "pushward.exe"
             ],
-            "hash": "74855ce08a9dfe58c912aa0894efec07da9ba08278e999cda6526fe4ab74e8fa"
+            "hash": "5b6e3df046fb3cf59424847f95d552e65f8ec629ceb974934e00c20529d1cfc6"
         },
         "arm64": {
-            "url": "https://github.com/mac-lucky/pushward-cli/releases/download/v1.14.1/pushward_1.14.1_windows_arm64.zip",
+            "url": "https://github.com/mac-lucky/pushward-cli/releases/download/v1.14.2/pushward_1.14.2_windows_arm64.zip",
             "bin": [
                 "pushward.exe"
             ],
-            "hash": "ad942e39fee34b4c517c9be93ea2c3317019eafdbc860ee399f782bf0cf9a72c"
+            "hash": "a4c37ce20ee9477171c4c65c7505bb901436bc42dbbfedb7a17551ed016a5b4b"
         }
     },
     "homepage": "https://github.com/mac-lucky/pushward-cli",
